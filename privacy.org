@@ -1,34 +1,34 @@
-#+TITLE: GDPR (AB) ve KVKK (TR) Bilgi Notu & Kullanım Şartları
-#+AUTHOR: [Uygulama Adınız/Geliştirici Adınız]
-#+DATE: [5 Aralık 2025]
+#+TITLE: GDPR (EU) and KVKK (TR) Information Notice & Terms of Use
+#+AUTHOR: [unfoRS/muvkors]
+#+DATE: [December 5, 2025]
 
-* 🛡️ KİŞİSEL VERİLERİN KORUNMASI (GDPR/KVKK) AYDINLATMA METNİ
+* 🛡️ PERSONAL DATA PROTECTION (GDPR/KVKK) INFORMATION NOTICE
 
-Bu uygulama, kendi sunucularına *hiçbir kişisel veri* toplamaz, işlemez veya iletmez.
-*Tüm işlemler sadece sizin cihazınızda, yerel olarak gerçekleştirilir.*
+This application does not collect, process, or transmit *any personal data* to its own servers.
+*All operations are carried out solely on your device, locally.*
 
-** Uygulamanın Temel İşlevi ve Veri İşleme
-  - Uygulama, sizi takip etmeyen kullanıcıları tespit etmek için *takip ettikleriniz* listenizi *takipçileriniz* listenizle karşılaştırır.
-  - Bu karşılaştırma işlemi tamamen *cihazınızda* yapılır.
-  - Sonuçta oluşan liste yalnızca *sizin cihazınızda* saklanır.
-  - Bu bilgi, geliştirici tarafından **görüntülenmez, paylaşılmaz veya herhangi bir harici sisteme iletilmez**.
+** Application's Core Function and Data Processing
+  - The application compares your *following list* with your *followers list* to identify users who do not follow you back.
+  - This comparison process is performed entirely on *your device*.
+  - The resulting list is stored only on *your device*.
+  - This information is **not viewed, shared, or transmitted** to any external system by the developer.
 
-** Google AdMob Reklam Teknolojileri
-  - Uygulama içinde Google AdMob reklam teknolojileri kullanılmaktadır.
-  - Reklamları görüntülemek amacıyla AdMob, Google'ın kendi sistemleri aracılığıyla bazı cihaz bilgilerini otomatik olarak işleyebilir (Örn: IP adresi, reklam kimliği, çerezler, yaklaşık konum, uygulama etkileşimleri vb.).
-  - *Bu veriler geliştirici tarafından görülemez veya saklanamaz.*
-  - Reklam verilerinin işlenmesi Google'ın sorumluluğundadır.
+** Google AdMob Advertising Technologies
+  - Google AdMob advertising technologies are used within the application.
+  - To display ads, AdMob may automatically process certain device information through Google’s own systems (e.g., IP address, advertising ID, cookies, approximate location, application interactions, etc.).
+  - *This data is not visible to or stored by the developer.*
+  - Data processing related to advertisements is under Google's responsibility.
 
-* 📝 KULLANIM ŞARTLARI
+* 📝 TERMS OF USE
 
-Uygulama, yalnızca cihaz tarafında karşılaştırma yaparak, sizin takip ettiğiniz ancak sizi takip etmeyen hesapları belirlemenize yardımcı olmak için tasarlanmıştır.
+This application is designed to help you identify accounts you follow but who do not follow you back, using device-side comparison only.
 
-Uygulamayı kullanarak aşağıdakileri kabul etmiş olursunuz:
+By using the application, you agree to the following:
 
-1. Uygulama, takip edilenler ve takipçiler verilerinizi **yalnızca cihazınızda** karşılaştırır ve sonucu cihazınıza kaydeder.
-2. Geliştirici tarafından *hiçbir kişisel veri saklanmaz* veya harici bir sunucuya iletilmez.
-3. Reklamlar Google AdMob tarafından sağlanır ve reklamlarla ilgili tüm veri işleme sorumluluğu **Google'a aittir**.
-4. Uygulamanın *hatasız çalışacağı garanti edilmez*.
-5. Uygulamanın *yalnızca amaçlanan kullanımı* için kullanılması beklenir.
+1. The application compares your following and followers data **only on your device** and saves the result on your device.
+2. *No personal data is stored* by the developer or transmitted to any external server.
+3. Advertisements are provided by Google AdMob, and all data processing related to ads is under **Google's responsibility**.
+4. The application does *not guarantee error-free operation*.
+5. The application is expected to be used *only for its intended purpose*.
 
-*Uygulamayı kullanmaya devam ederek bu bildirimi kabul etmiş olursunuz.*
+*By continuing to use the application, you accept this notice.*
