@@ -1,8 +1,8 @@
-#+TITLE: GDPR Bilgi Notu & Kullanım Şartları
+#+TITLE: GDPR (AB) ve KVKK (TR) Bilgi Notu & Kullanım Şartları
 #+AUTHOR: [Uygulama Adınız/Geliştirici Adınız]
 #+DATE: [5 Aralık 2025]
 
-* 🛡️ GDPR BİLGİ NOTU (Kişisel Verilerin Korunması)
+* 🛡️ KİŞİSEL VERİLERİN KORUNMASI (GDPR/KVKK) AYDINLATMA METNİ
 
 Bu uygulama, kendi sunucularına *hiçbir kişisel veri* toplamaz, işlemez veya iletmez.
 *Tüm işlemler sadece sizin cihazınızda, yerel olarak gerçekleştirilir.*
