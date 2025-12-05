@@ -1,0 +1,36 @@
+#+TITLE: GDPR Bilgi Notu & Kullanım Şartları
+#+AUTHOR: [Uygulama Adınız/Geliştirici Adınız]
+#+DATE: [5 Aralık 2025]
+
+* 🛡️ GDPR BİLGİ NOTU (Kişisel Verilerin Korunması)
+
+Bu uygulama, kendi sunucularına **hiçbir kişisel veri** toplamaz, işlemez veya iletmez.
+
+**Tüm işlemler sadece sizin cihazınızda, yerel olarak gerçekleştirilir.**
+
+** Uygulamanın Temel İşlevi ve Veri İşleme
+  - Uygulama, sizi takip etmeyen kullanıcıları tespit etmek için **takip ettikleriniz** listenizi **takipçileriniz** listenizle karşılaştırır.
+  - Bu karşılaştırma işlemi tamamen **cihazınızda** yapılır.
+  - Sonuçta oluşan liste yalnızca **sizin cihazınızda** saklanır.
+  - Bu bilgi, geliştirici tarafından **görüntülenmez, paylaşılmaz veya herhangi bir harici sisteme iletilmez**.
+
+** Google AdMob Reklam Teknolojileri
+  - Uygulama içinde Google AdMob reklam teknolojileri kullanılmaktadır.
+  - Reklamları görüntülemek amacıyla AdMob, Google'ın kendi sistemleri aracılığıyla bazı cihaz bilgilerini otomatik olarak işleyebilir:
+    - *Örnek Veriler:* IP adresi, reklam kimliği, çerezler, yaklaşık konum, uygulama etkileşimleri vb.
+  - **Bu veriler geliştirici tarafından görülemez veya saklanamaz.**
+  - Reklam verilerinin işlenmesi Google'ın sorumluluğundadır.
+
+* 📝 KULLANIM ŞARTLARI
+
+Uygulama, yalnızca cihaz tarafında karşılaştırma yaparak, sizin takip ettiğiniz ancak sizi takip etmeyen hesapları belirlemenize yardımcı olmak için tasarlanmıştır.
+
+Uygulamayı kullanarak aşağıdakileri kabul etmiş olursunuz:
+
+1. Uygulama, takip edilenler ve takipçiler verilerinizi **yalnızca cihazınızda** karşılaştırır ve sonucu cihazınıza kaydeder.
+2. Geliştirici tarafından **hiçbir kişisel veri saklanmaz** veya harici bir sunucuya iletilmez.
+3. Reklamlar Google AdMob tarafından sağlanır ve reklamlarla ilgili tüm veri işleme sorumluluğu **Google'a aittir**.
+4. Uygulamanın **hatasız çalışacağı garanti edilmez**.
+5. Uygulamanın **yalnızca amaçlanan kullanımı** için kullanılması beklenir.
+
+**Uygulamayı kullanmaya devam ederek bu bildirimi kabul etmiş olursunuz.**
